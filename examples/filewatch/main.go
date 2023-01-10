@@ -14,7 +14,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/elasticperch/websocket"
+	"github.com/secful/websocket"
 )
 
 const (

@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/elasticperch/websocket"
+	"github.com/secful/websocket"
 )
 
 const (

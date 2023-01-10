@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/elasticperch/websocket"
+	"github.com/secful/websocket"
 )
 
 var (

@@ -14,7 +14,7 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/elasticperch/websocket"
+	"github.com/secful/websocket"
 )
 
 var upgrader = websocket.Upgrader{
